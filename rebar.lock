@@ -1,8 +1,8 @@
 {"1.1.0",
-[{<<"ecrontab">>,{pkg,<<"ecrontab">>,<<"0.4.0">>},0},
+[{<<"ecrontab">>,{pkg,<<"ecrontab">>,<<"0.4.1">>},0},
  {<<"gproc">>,{pkg,<<"gproc">>,<<"0.6.1">>},1}]}.
 [
 {pkg_hash,[
- {<<"ecrontab">>, <<"EF1639A5C3C94C302EF5DE08673B05077FB6474AFB8DF132BCF34C0C9301410B">>},
+ {<<"ecrontab">>, <<"471B8C3BCD29B7540C322B9D3E348C14B44AE79C16A50474DABF17AB6A37BDF7">>},
  {<<"gproc">>, <<"4579663E5677970758A05D8F65D13C3E9814EC707AD51D8DCEF7294EDA1A730C">>}]}
 ].
